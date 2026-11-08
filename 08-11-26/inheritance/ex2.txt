@@ -1,0 +1,4 @@
+1. Dog is an Animal
+2. Car is not an Engine, but Car has an Engine
+3. SavingsAccount is not a BankAccount, but BankAccount has a SavingsAccount
+4. Square is not a Color, but Square has a Color
